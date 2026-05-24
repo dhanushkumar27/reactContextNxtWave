@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactContextNxtwave/static/css/main.d0efc964.chunk.css",
+    "main.js": "/reactContextNxtwave/static/js/main.60403314.chunk.js",
+    "main.js.map": "/reactContextNxtwave/static/js/main.60403314.chunk.js.map",
+    "runtime-main.js": "/reactContextNxtwave/static/js/runtime-main.e35a4995.js",
+    "runtime-main.js.map": "/reactContextNxtwave/static/js/runtime-main.e35a4995.js.map",
+    "static/js/2.a24abee4.chunk.js": "/reactContextNxtwave/static/js/2.a24abee4.chunk.js",
+    "static/js/2.a24abee4.chunk.js.map": "/reactContextNxtwave/static/js/2.a24abee4.chunk.js.map",
+    "index.html": "/reactContextNxtwave/index.html",
+    "static/css/main.d0efc964.chunk.css.map": "/reactContextNxtwave/static/css/main.d0efc964.chunk.css.map",
+    "static/js/2.a24abee4.chunk.js.LICENSE.txt": "/reactContextNxtwave/static/js/2.a24abee4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e35a4995.js",
+    "static/js/2.a24abee4.chunk.js",
+    "static/css/main.d0efc964.chunk.css",
+    "static/js/main.60403314.chunk.js"
+  ]
+}
